@@ -1,0 +1,22 @@
+nav {
+	height: 50px;
+	width: 220px;
+	margin: auto;
+}
+
+header {
+    padding: 10px;
+    background: black;
+}
+
+html {
+	background-color: black
+}
+
+body {
+	color: white;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: lighter;
+	width: 960px;
+	margin: 30px 200px 100px 100px;
+}
